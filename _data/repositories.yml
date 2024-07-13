@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jazzzny
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dortania/OpenCore-Legacy-Patcher
+  - jazzzny/Discord-Legacy-Patcher
+  - jazzzny/TeraScaleFixup
+  - jazzzny/iFR
+  - jazzzny/jdk-macos-legacy
+  - jazzzny/basilisk55-snowleopard
+  - jazzzny/Portable-Binary-macOS
