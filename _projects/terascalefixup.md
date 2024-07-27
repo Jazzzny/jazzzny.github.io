@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 <h3>
-    <a href="https://github.com/Jazzzny/iFR">View on GitHub</a>
+    <a href="https://github.com/Jazzzny/TeraScaleFixup">View on GitHub</a>
 </h3>
 <br>
 
