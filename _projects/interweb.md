@@ -11,6 +11,9 @@ related_publications: false
 <h3>
     <a href="https://github.com/Jazzzny/basilisk55-snowleopard">View on GitHub</a>
 </h3>
+<h3>
+    <a href="https://interweb.jazzzny.me">View Website</a>
+</h3>
 <br>
 
 InterWeb is a secure, modern, and open-source web browser for Mac OS X 10.6 based on Roytam1's Basilisk 55 Moebius codebase, select patches from ParrotGeek1, and numerous of my own modifications. It is designed to provide a modern browsing experience on Snow Leopard, with support for modern web standards and security features.
